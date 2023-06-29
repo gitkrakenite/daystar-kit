@@ -78,7 +78,7 @@ const Navbar = () => {
                   Hustle
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a
                   href="#opportunities"
                   className="hover:text-[#02AEEE] text-inherit no-underline"
@@ -101,7 +101,7 @@ const Navbar = () => {
                 >
                   Trending
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
@@ -239,7 +239,7 @@ const Navbar = () => {
                   Hustle
                 </a>
               </li>
-              <li
+              {/* <li
                 className="pb-[5px] text-lg pr-[10px]"
                 style={{ borderBottom: "1px solid #535353" }}
                 onClick={() => setToggle(false)}
@@ -274,7 +274,7 @@ const Navbar = () => {
                 >
                   Trending
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
           {/*  */}
