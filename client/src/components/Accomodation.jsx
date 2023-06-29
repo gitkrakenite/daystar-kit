@@ -35,6 +35,9 @@ const Accomodation = () => {
 
   return (
     <div id="accommodation" className="mx-auto p-4">
+      <h2 className="text-2xl text-[#02AEEE] mb-[20px]">
+        Outside Campus Accommodation
+      </h2>
       <Carousel
         showArrows={window.innerWidth > 768}
         emulateTouch={window.innerWidth <= 768}

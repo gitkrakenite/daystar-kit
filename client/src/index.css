@@ -8,7 +8,8 @@
 }
 
 .prompt::-webkit-scrollbar-thumb {
-  background-color: rgb(7, 131, 106);
+  width: 1px !important;
+  background-color: #02aeee;
   border-radius: 10px;
 }
 
